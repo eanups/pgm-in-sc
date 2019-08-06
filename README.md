@@ -1,2 +1,2 @@
-# pgm-in-sc
+# pgm-in-sci (learning)
 Programming in Scala
